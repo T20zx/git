@@ -8,7 +8,7 @@
 </head>
 <body>
 <div>
-	<table></table>
+	<table>aa</table>
 </div>
 </body>
 </html>

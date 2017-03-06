@@ -8,7 +8,7 @@
 </head>
 <body>
 <div>
-	<table>aa</table>
+	<table>°¡°¡</table>
 </div>
 </body>
 </html>
